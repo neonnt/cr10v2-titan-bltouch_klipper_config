@@ -1,5 +1,5 @@
 Personal configuration files for my Creality CR-10 V2. 
 
-I am currently running a BLTouch, Hemera direct drive & ADXL345 accelerometers. 
+I am currently running a BLTouch & Titan direct drive. 
 
-Configuration is a work in progress still, however all functionality is working. 
+Configuration is wip.
